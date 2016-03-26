@@ -1,0 +1,15 @@
+{
+  "name": "webblock-freezer",
+  "version": "0.0.2",
+  "description": "A web component for immutable data",
+  "main": "webblock-freezer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "freezer-js": "^0.10.0",
+    "webblock": "0.0.14"
+  }
+}
