@@ -4,7 +4,7 @@ A simple web component for immutable data
 
 initialized with json as its content all updates run through the property "data"
 
-```
+```javascript
 var el = document.getElementById("model");
 el.data.count // 1
 el.observe("data",function(newData){
